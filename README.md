@@ -6,7 +6,7 @@ The perfect resources for doctors, managers, and medical billers and coders, blo
 
 "Health Care", an award-winning health Care, Booking Doctors and digital medical device inventor and CEO, with a list of accomplishments too long to include here. The point is, you'll want to read his perspective on the latest medical and health tech innovations.
 
-[Health Care](https://health-care.netlify.app/)  Project on Live 
+[Health Care](https://tugun-healthcare.netlify.app/)  Project on Live 
 
 ## Project Features
 
