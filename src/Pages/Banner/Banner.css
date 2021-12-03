@@ -1,0 +1,21 @@
+
+.slide-img{
+    width: 100%;
+}
+.carousel-control-prev-icon{
+    background-color: red!important;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.carousel-control-next-icon{
+    background-color: red!important;
+    padding: 5px;
+    border-radius: 5px;
+}
+.banner button:hover {
+margin-left: 20px;
+transition: 1s;
+background-color: #a91f2c;
+font-weight: bold;
+}
